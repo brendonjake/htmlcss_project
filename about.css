@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #2a2323, #76c294);
+    background-image: url("src/Untitled_Artwork.png");
     color: white;
 }
 
@@ -226,4 +226,3 @@ p {
     text-align: center;
     margin-top: 80px;
 }
-
